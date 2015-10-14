@@ -30,16 +30,28 @@
       - git
       - git-flow
       - heroku-toolbelt
+      - emacs
+      - mysql
+      - postgresql
+      - autoconf
+      - cask
+      - memcached
+      - direnv
+      - elasticsearch
+      - pwgen
+      - go
+      - hub
+      - hugo
+      - tmux
       - peco
       - nvm
       - rbenv
       - rbenv-gem-rehash
       - ruby-build
-      - the_silver_searcher
       - vim
-      - zsh
-      - zsh-completions
-      - zsh-syntax-highlighting
+      - bash
+      - bash-completions
+
 
     # Tap external Homebrew Cask repositories.
     homebrew_cask_repositories:
@@ -57,13 +69,26 @@
       - firefox-ja
       - flash
       - google-chrome
-      - google-japanese-ime
       - iterm2
       - java6
       - karabiner
-      - phpstorm
-      - rubymine
       - slack
       - sublime-text
       - vagrant
       - virtualbox
+      - alfred
+      - spark
+      - psequel
+      - aquaskk
+      - fluid
+      - nvalt
+      - dropbox
+      - vlc
+      - flux
+      - gyazo
+      - filezilla
+#     - bettersnaptool
+#     - 1password ver3
+#     - marked2
+#     - sunrise
+#     - yorufukurou
